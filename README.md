@@ -146,6 +146,4 @@ Feel free to contact me.
 [![Projects](https://img.shields.io/badge/Projects-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)](https://alphasowmik.xyz)&nbsp;
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p
