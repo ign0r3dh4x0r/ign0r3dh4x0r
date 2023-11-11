@@ -148,11 +148,4 @@ Feel free to contact me.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### My Github Stat
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ign0r3dh4x0r&theme=flat&row=2&column=3">
-  <!-- <br /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ign0r3dh4x0r&langs_count=8&layout=compact">
-</p>
 <p align="right">(<a href="#top">back to top</a>)</p>
