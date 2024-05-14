@@ -51,7 +51,7 @@
 ## About Me
 
 I'm a tech lover. I love to learn the new & try it out. :smile:
-Basically I'm a full stack web developer. Besides, I'm a Linux enthusiast and I also love working with various Python and NodeJS. I'm learning android app development. My dream is to build career on IT sector. 
+Formally, I'm a Full-stack Web Developer and DevOps Engineer. Besides, I'm a Linux enthusiast and love working with various Python and NodeJS projects. My next goal is Flutter which will take me one step ahead of my destiny. 
 
 
 ### Skills
