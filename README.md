@@ -134,16 +134,16 @@ Feel free to contact me.
 ### ***Personal*** 
 
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ffsowmik)&nbsp;
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xowmik)&nbsp;
-[![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/itz_sowmik)&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/sowmik.reborn)&nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ignoredhaxor)&nbsp;
+[![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sowmik.reborn)&nbsp;
 
 ### ***Work***
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ign0r3dh4x0r.github.io)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://sowmik.dev)&nbsp;
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://ign0r3dh4x0r.github.io/linktree.html)&nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ign0r3dh4x0r)&nbsp;
-[![Projects](https://img.shields.io/badge/Projects-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)](https://alphasowmik.xyz)&nbsp;
+[![Projects](https://img.shields.io/badge/Projects-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)](https://neopandora.com)&nbsp;
 
 
 <p align="right">(<a href="#top">back to top</a>)</p
