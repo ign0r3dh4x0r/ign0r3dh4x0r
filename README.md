@@ -20,7 +20,7 @@
   import { Profile } from "github";
   Profile.set({
     name:"Shayer Mahmud Sowmik",
-    age:17,
+    age:19,
     occupation:"student"
   });
   ```
